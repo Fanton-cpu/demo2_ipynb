@@ -6,3 +6,6 @@ Realizando analisis de datos en el archivo (requirements.txt) se encuentra todas
 3. Análisis comparativo
 4. Análisis de tendencias
 5. Creación de informes interactivos
+6. Análisis de relaciones
+7. Informe y presentación de resultados
+
