@@ -1,30 +1,30 @@
-# ANÁLISIS DE DATOS DE ACEITE DE PESCADO
+# ANALYSIS OF FISH OIL DATA
 
-## Tabla de Contenidos
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
+## Table of Contents
+- [Installation](#installation)
+- [Use](#use)
+- [Contribution](#contribution)
 
-## Instalación
+## Facility
 
-- Clonar el proyecto con git clone (pagina del proyecto).
-- Crear un entorno virtual (python -m venv env) 
-- Instalar las librerias del requirements.txt (las que use en el proyecto) 
+- Clone the project with git clone (project page).
+- Create a virtual environment (python -m venv env)
+- Install the libraries of the requirements.txt (the ones used in the project)
 {import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns} , dentro del entorno virtual creado
-- Instalar dentro del entorno virtual el jupyter (pip install jupyter)
-- Escribir el comando jupyter notebook para poder entrar al proyecto 
+import seaborn as sns
+from sklearn.decomposition import PCA} , inside the created virtual environment
+- Install the jupyter inside the virtual environment (pip install jupyter)
+- Write the jupyter notebook command to be able to enter the project
 
-## Uso
+## Use
 
-Es un pequeño proyecto que nos permitirar ver una compración con los analisis registrados del aceite de pescado.
+It is a small project that will allow us to see a comparison with the registered analysis of fish oil.
 
-## Contribución
+## Contribution
 
-Podriamos mejorar el proyecto realizando mas analisis de datos como que datos aumentar, que debemos analizar y comparar.
-
+We could improve the project by doing more data analysis such as what data to increase, what we should analyze and compare.
 
 
 
